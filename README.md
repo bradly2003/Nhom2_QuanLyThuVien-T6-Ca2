@@ -10,4 +10,6 @@ Chúng tôi có một đội ngũ phát triển trang web chuyên nghiệp có k
 Chúng tôi tin rằng việc phát triển trang web này sẽ giúp thư viện phương nam tăng cường mối quan hệ với khách hàng hiện tại và thu hút thêm đối tượng đọc mới thông qua sự thuận tiện và đa dạng của trải nghiệm đọc sách trực tuyến.
 </p>
 
-<h2 style= "color =#ff0000; font-weight: bold;"> Luồng của học sinh </h2>
+<span style="color:#a3ffb4; font-weight: bold;">
+<h2> Luồng của học sinh </h2>
+</span>
