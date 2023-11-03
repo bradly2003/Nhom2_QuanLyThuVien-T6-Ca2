@@ -1,5 +1,32 @@
 <h1 style="color: #a3ffb4; text-align: center;"> Thư Viện Tự Ái </h1>
-<h2 style= "color =#ff0000; font-weight: bold;">  Giới thiệu </h2
+<h2 style= "color =#ff0000; font-weight: bold;">  Thành viên nhóm </h2>  
+
+<table border="1">
+    <tr>
+        <th colspan="3">Thành viên nhóm</th>
+    </tr>
+  <tr>
+        <td>Name</td>
+        <td> Roles</td>
+        <td>Account</td>
+    </tr>
+    <tr>
+        <td>Nguyễn Phan Quốc Bảo</td>
+        <td> Scrum master ,UX-UI</td>
+        <td>DINO</td>
+    </tr>
+    <tr>
+        <td>Nguyễn Phước Duy</td>
+        <td>Dev, Product Owner</td>
+        <td>DUY</td>
+    </tr>
+    <tr>
+        <td>Huỳnh Ngọc Bảo</td>
+        <td>Database ,Dev </td>
+        <td>N.Bao</td>
+    </tr>
+</table>
+<h2 style= "color =#ff0000; font-weight: bold;">  Giới thiệu </h2>
 <p>Thư Viện Tự Ái</p>                                                            
 <p> 
   Là một trong những nhà sách lớn đã tồn tại lâu đời, đã có kinh nghiệm và uy tính trong công việc liên quan đến sách. Hiện nay chúng tôi muốn mở rộng quy mô kinh doanh hay chính xác là việc cho mượn sách trong thư viên. Nhầm nắm bắt được nhu cầu của việc truy cập trực tuyến ngày càng cao của mọi người hiện nay nên chúng tôi muốn tạo ra 1 trang web giúp cho mọi người đều có thể tiếp cận và đọc sách online. 
